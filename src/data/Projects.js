@@ -9,7 +9,7 @@ const projects = [
     highlights: ["Animated charts", "Vercel", "Mobile-first UI"],
     github: " https://github.com/Sarikasubramaniyan/personal-finance-app.git",
     demo: "http://personal-finance-c1ja92vxd-sarikas-projects-5ed3929b.vercel.app/",
-    image: "/assets/pfm.PNG"
+    image:  process.env.PUBLIC_URL +"/assets/pfm.PNG"
   },
   {
     id: "smarthome",
@@ -21,7 +21,7 @@ const projects = [
     highlights: ["Device controls", "toggles", "Responsive dashboard"],
     github: "https://github.com/Sarikasubramaniyan/smart-home-dashboard.git",
     demo: "https://gleaming-florentine-f42044.netlify.app/",
-    image: "/assets/smarthome.PNG"
+    image:  process.env.PUBLIC_URL +"/assets/smarthome.PNG"
   },
   {
     id: "temple",
@@ -33,7 +33,7 @@ const projects = [
     highlights: ["Donation form", "Events", "Gallery"],
     github: "https://github.com/Sarikasubramaniyan/temple-website.git",
     demo: "https://temple-website-zeta.vercel.app/",
-    image: "/assets/temple.PNG"
+    image:  process.env.PUBLIC_URL +"/assets/temple.PNG"
   },
   {
     id: "bortiq",
@@ -45,7 +45,7 @@ const projects = [
     highlights: ["Three-column hero", "Hover animations", "Responsive grids"],
     github: " https://github.com/Sarikasubramaniyan/boutique.git",
     demo: "https://sarikasubramaniyan.github.io/boutique/",
-    image: "/assets/botique.PNG"
+    image:  process.env.PUBLIC_URL +"/assets/botique.PNG"
   }
 ];
 
