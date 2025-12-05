@@ -38,7 +38,7 @@ export default function Navbar() {
           <NavLink to="/contact">Contact</NavLink>
           <a
             
-            href={process.env.PUBLIC_URL + "/assets/S-Resume.pdf"}
+            href={process.env.PUBLIC_URL + "/assets/Resume.pdf"}
             download
             className="ml-3 inline-flex items-center gap-2 px-3 py-2 rounded-md bg-sarikaPurple text-white text-sm font-medium shadow hover:opacity-95"
           >

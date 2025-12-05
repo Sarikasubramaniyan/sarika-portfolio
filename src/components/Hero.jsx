@@ -20,7 +20,7 @@ export default function Hero() {
               View Projects
             </Link>
             <a 
-              href={process.env.PUBLIC_URL + "/assets/S-Resume.pdf"} 
+              href={process.env.PUBLIC_URL + "/assets/Resume.pdf"} 
               download className="inline-flex items-center gap-2 px-5 py-3 rounded-md border border-slate-200 text-slate-700 font-medium">
               Download Resume
             </a>
