@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarika-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/sarika-portfolio/static/js/main.20205eb7.js",
+    "static/js/453.e6763414.chunk.js": "/sarika-portfolio/static/js/453.e6763414.chunk.js",
+    "index.html": "/sarika-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/sarika-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.20205eb7.js.map": "/sarika-portfolio/static/js/main.20205eb7.js.map",
+    "453.e6763414.chunk.js.map": "/sarika-portfolio/static/js/453.e6763414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20205eb7.js"
+  ]
+}
