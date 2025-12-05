@@ -33,7 +33,8 @@ export default function Hero() {
 >
   <div className="w-full max-w-lg bg-white rounded-2xl shadow-lg overflow-hidden">
     <img
-      src="/assets/myimg.jpg"
+      src={process.env.PUBLIC_URL + "/assets/myimg.jpg"} />
+
       alt="My Image"
       className="w-full h-80 object-cover" // increased height
     />
